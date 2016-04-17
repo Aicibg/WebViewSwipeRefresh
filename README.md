@@ -1,1 +1,2 @@
 # WebViewSwipeRefresh
+Android提供的一个WebView刷新控件SwipeRefresh
